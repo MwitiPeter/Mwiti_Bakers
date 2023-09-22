@@ -281,7 +281,14 @@ section {
   color: var(--white);
   padding-bottom: 0.7rem;
 }
-.newsletter form .button{
+.newsletter form input{
+  width: 100%;
+  margin: 7rem 0;
+  padding: 1rem 1.2rem;
+  color: var(--black);
+  border-radius: 2rem;
+}
+.newsletter form .button {
   width: 100%;
   margin: 7rem 0;
   padding: 1rem 1.2rem;
